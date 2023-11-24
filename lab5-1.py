@@ -70,5 +70,4 @@ race.add_participant(horse3)
 race.add_participant(horse4)
 
 winner = race.calculate_winner()
-print(winner)
 
