@@ -63,7 +63,7 @@ class Race:
             #we will print the result
             print(f"Place {i + 1}: {horse.name}")
         return sorted_participants[0]
-#create an object
+#create an object for Race class
 race = Race()
 #create participants
 horse1 = RaceHorse("Horse1", 25, 3)
